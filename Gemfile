@@ -21,6 +21,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
+gem 'backbone-on-rails'
 
 group :development, :test do
   gem 'jasminerice'
