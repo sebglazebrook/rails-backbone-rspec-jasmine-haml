@@ -22,6 +22,10 @@ end
 
 gem 'jquery-rails'
 
+group :development, :test do
+  gem 'jasminerice'
+end
+
 group :test do
   gem 'database_cleaner'
   gem 'rails3-generators'
