@@ -15,7 +15,7 @@
 //= require hamlcoffee
 //= require underscore
 //= require backbone
-//= require .//rails_backbone_rspec_jasmine_haml
+//= require .//appy
 //= require_tree ../templates/
 //= require_tree .//models
 //= require_tree .//collections
