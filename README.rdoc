@@ -12,3 +12,11 @@ Testing:
     - Rails: Rspec
     - Backbone.js: Jasmine
     - Fixtures: FactoryGirl
+
+Note:
+
+Check the other branches if you like to use bootstrap or devise or active admin.
+
+Let me know if you come across anything strange.
+
+Cheers.
