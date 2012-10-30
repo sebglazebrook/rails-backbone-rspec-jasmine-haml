@@ -24,6 +24,7 @@ end
 gem 'jquery-rails'
 gem 'backbone-on-rails'
 gem 'haml'
+gem 'less-rails-bootstrap'
 
 group :development, :test do
   gem 'jasminerice'
