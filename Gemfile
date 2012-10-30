@@ -16,8 +16,7 @@ group :assets do
   gem 'haml_coffee_assets'
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
-  # gem 'therubyracer', :platforms => :ruby
-
+  gem 'therubyracer', :platforms => :ruby
   gem 'uglifier', '>= 1.0.3'
 end
 
@@ -25,6 +24,8 @@ gem 'jquery-rails'
 gem 'backbone-on-rails'
 gem 'haml'
 gem 'activeadmin'
+gem 'less-rails-bootstrap'
+gem 'less-rails'
 
 group :development, :test do
   gem 'jasminerice'
