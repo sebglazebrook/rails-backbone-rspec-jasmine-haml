@@ -15,7 +15,12 @@ Testing:
 
 Note:
 
-Check the other branches if you like to use bootstrap or devise or active admin.
+- Check the other branches if you like to use bootstrap or devise or active admin.
+
+- You will need to create directories for your javascript models and collections:
+
+  app/javascripts/collections
+  app/javascripts/models
 
 Let me know if you come across anything strange.
 
